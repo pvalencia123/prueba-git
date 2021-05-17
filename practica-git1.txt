@@ -3,6 +3,5 @@ Hola esta es la primera prueba de archivo en linux
 Segunda linea de prueba
 
 
-Cuarta linea modificada desde el remoto
+tercera linea creada desde la cabecera --------------
 
-Quinta linea de prueba para la conexion SSH
